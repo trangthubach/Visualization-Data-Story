@@ -78,7 +78,7 @@ How artificial intelligence is reshaping Durham Region’s job market in a posit
 - By the persona and graph, we aim to emphasize that the unemployment situation is significant for the youth, particularly new graduates.
 - Chart:  
   ![Chart 1](https://github.com/TracieTruong/Visualization-Data-Story/blob/16ff9936ed72e6a7dbdeecad156240bef47bceef/Iterations/Iteration%203.1.png)
-  *Unemployment rate in Durham Region from 2006 to 2024, divided by age range*
+  [*Durham Region Unemployment Rates by Age Group*](https://public.flourish.studio/visualisation/26384237/)
 
 ### Scene 3: Top occupations replaced by AI 
 - Script:
@@ -90,7 +90,7 @@ How artificial intelligence is reshaping Durham Region’s job market in a posit
 - By that, the story can reach the labour force who have been facing an unemployment threat due to the innovation of technology.
 - Chart:  
   ![Chart 2](https://github.com/TracieTruong/Visualization-Data-Story/blob/3126153c09eb61b9877a4acb72e758f06b548800/Iterations/Iteration%203.2.png)
-  *AI Disruption Across Job Sectors: Leading Roles at Risk*
+  [*AI Disruption Across Job Sectors: Leading Roles at Risk*](https://public.flourish.studio/visualisation/26385185/)
 
 ### Scene 4: The new opportunities: Emerging industry sectors in the Durham region 
 - Script:
@@ -110,7 +110,7 @@ How artificial intelligence is reshaping Durham Region’s job market in a posit
 - The final dot chart shows practices that companies within Durham Region are implementing, retention strategies to attract talent by offering competitive compensation and benefits, creating a positive work environment, and investing in employee growth through training and clear career paths.
 - Chart:  
   ![Chart 4](https://github.com/TracieTruong/Visualization-Data-Story/blob/3126153c09eb61b9877a4acb72e758f06b548800/Iterations/Iteration%203.4.png)  
-  *Durham Region's Recruitment & Retention strategies*
+  [*Durham Region's Recruitment & Retention strategies*](https://public.flourish.studio/visualisation/26436728/)
 
 ### Scene 6: Conclusion
 - Script: The future isn't written by AI. It's written by YOU.
