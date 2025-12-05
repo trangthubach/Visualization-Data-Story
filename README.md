@@ -3,4 +3,4 @@
 
 ![Final](https://github.com/TracieTruong/Visualization-Data-Story/blob/53ec246d577928e099e9d4bc90adde1bda48561c/Iterations/Final.png)
 
-This is a group project for our Visualization and Storytelling class. [Please click here to read the details](https://github.com/TracieTruong/Visualization-Data-Story/blob/f97f8d0f30ae1ec4cab275331b1ddd93db3d717e/How%20AI%20is%20reshaping%20Durham%20Region's%20job%20market.md)
+This is a group project for our Visualization and Storytelling class. [Please click here to read the details](https://github.com/TracieTruong/Visualization-Data-Story/blob/eeffa08b3df4898a6e91c306a1fcf63cb4eccf0f/How%20AI%20is%20reshaping%20Durham%20Region's%20job%20market.md)
