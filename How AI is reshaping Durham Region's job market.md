@@ -110,7 +110,7 @@ How artificial intelligence is reshaping Durham Region’s job market in a posit
 - The final dot chart shows practices that companies within Durham Region are implementing, retention strategies to attract talent by offering competitive compensation and benefits, creating a positive work environment, and investing in employee growth through training and clear career paths.
 - Chart:  
   ![Chart 4](https://github.com/TracieTruong/Visualization-Data-Story/blob/3126153c09eb61b9877a4acb72e758f06b548800/Iterations/Iteration%203.4.png)  
-  [*Durham Region's Recruitment & Retention strategies*]([https://public.flourish.studio/visualisation/26436728/](https://public.flourish.studio/visualisation/26436728/)
+  [*Durham Region's Recruitment & Retention strategies*]([https://public.flourish.studio/visualisation/26436728/)
 
 ### Scene 6: Conclusion
 - Script: The future isn't written by AI. It's written by YOU.
