@@ -10,4 +10,4 @@ Towards the end of the experience, the interface transitions to a darker theme, 
 
 ![Final](https://github.com/TracieTruong/Visualization-Data-Story/blob/53ec246d577928e099e9d4bc90adde1bda48561c/Iterations/Final.png)
 
-[Read more](https://github.com/TracieTruong/Visualization-Data-Story/blob/eb11f856730873a60032b1b6ab22e9b593eddfb4/How%20AI%20is%20reshaping%20Durham%20Region's%20job%20market.md)
+[Read more](https://github.com/TracieTruong/Visualization-Data-Story/blob/4a13d3f9dc10b69246d207f4c401844c355ddbba/How%20AI%20is%20reshaping%20Durham%20Region's%20job%20market.md)
