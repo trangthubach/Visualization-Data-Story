@@ -34,7 +34,7 @@ Towards the end of the experience, the interface transitions to a darker theme, 
     </td>
     <td align="center" style="padding: 20px;">
       <strong>David Brown</strong><br>
-      <img src="https://github.com/TracieTruong/Visualization-Data-Story/blob/fac95923d2e3689722a5a1b4e61671260f96fdb7/Personas/Persona04.jpg?raw=true" width="300">
+      <img src="https://github.com/TracieTruong/Visualization-Data-Story/blob/6e1adde70279ec37c416b726d42907ca2d5fbca7/Personas/Persona04.jpg?raw=true" width="300">
     </td>
   </tr>
 </table>
