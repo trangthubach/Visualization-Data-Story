@@ -1,7 +1,7 @@
 # Data Story Detail 
 
-<a href="[https://tracietruong.github.io/Visualization-Data-Story/" target="_blank](https://tracietruong.github.io/Visualization-Data-Story/)">
-  <img src="https://img.shields.io/badge/THE%20ESSENCE%20OF%20CHANGE-cf1940?style=for-the-badge" />
+<a href="https://tracietruong.github.io/Visualization-Data-Story/" target="_blank">
+  <img src="https://img.shields.io/badge/THE%20ESSENCE%20OF%20CHANGE-cf1940?style=for-the-badge&logoWidth=40&labelColor=cf1940&color=cf1940&padding=20" />
 </a>
 
 ## Perspectives
