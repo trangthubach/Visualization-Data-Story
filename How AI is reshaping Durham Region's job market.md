@@ -39,7 +39,7 @@ Scrollytelling is excellent for audience engagement through interactive, story-d
 How artificial intelligence is reshaping Durham Region’s job market in a positive direction
 ### Scene 1: The story behind
 - Background: In the annual Career Fair hosted in Durham Region  
-- Text: ***“Four generations, one Job Fair. Outside the Business and IT building at Ontario Tech University, the excitement of a new career collides with a silent threat: a job market already rewritten by AI.”***
+- Text: **_“Four generations, one Job Fair. Outside the Business and IT building at Ontario Tech University, the excitement of a new career collides with a silent threat: a job market already rewritten by AI.”_**
 - Context: Lucas (L), Marcus (M), and David (D) discussed why they were attending this career fair. They came to talk with the employers and met Priya (P)
 - The lineup: Marcus (M), David (D), Lucas (L), Priya (P) 
 - Story:  
@@ -53,7 +53,26 @@ How artificial intelligence is reshaping Durham Region’s job market in a posit
   _Subtitle: Priya Sharma, 24, Senior HR Manager, TD Bank_  
 
 ### Scene 2: Unemployment rate
+- Text:
+  1. **A Fractured Market** In 2019, the gap between youth and established workers was manageable. Everyone played by the same rules.
+  2. **The Great Divergence** Then came the split. While automation and the pandemic barely scratched established careers, **youth unemployment skyrocketed**, exposing the jobs most vulnerable to AI.
+- Script: Marcus’s Dilemma  
+- Story/Persona 2: In this scene, we introduce Marcus, a recent university graduate struggling to find a job in his field due to the highly competitive job market. He realizes that knowing AI is a valuable asset for job seekers. In response, he decides to enroll in a master's program in AI to enhance his skills.
+- We use a heatmap to illustrate the unemployment rate for different age categories from 2006 to 2024. 
+- By the persona and graph, we aim to emphasize that the unemployment situation is significant for the youth, particularly new graduates.
+- Chart:
+  ![Chart 1](https://github.com/TracieTruong/Visualization-Data-Story/blob/16ff9936ed72e6a7dbdeecad156240bef47bceef/Iterations/Iteration%203.1.png)
+  *Unemployment rate in Durham Region from 2006 to 2024, divided by age range*
 
+### Scene 3: Top occupations replaced by AI 
+- Text: **_A Fractured Market: In 2019, the gap between youth and established workers was manageable. Everyone played by the same rules._**
+- Script: Marcus’s Dilemma  
+- Story/Persona 2: In this scene, we introduce Marcus, a recent university graduate struggling to find a job in his field due to the highly competitive job market. He realizes that knowing AI is a valuable asset for job seekers. In response, he decides to enroll in a master's program in AI to enhance his skills.
+- We use a heatmap to illustrate the unemployment rate for different age categories from 2006 to 2024. 
+- By the persona and graph, we aim to emphasize that the unemployment situation is significant for the youth, particularly new graduates.
+- Chart:
+  ![Chart 1](https://github.com/TracieTruong/Visualization-Data-Story/blob/16ff9936ed72e6a7dbdeecad156240bef47bceef/Iterations/Iteration%203.1.png)
+  *Unemployment rate in Durham Region from 2006 to 2024, divided by age range*
 
 
 
